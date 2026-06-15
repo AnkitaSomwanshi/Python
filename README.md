@@ -1,2 +1,3 @@
-# Python
-Its All about Python
+# Python 
+
+Journey of Learning Python
