@@ -1,3 +1,3 @@
-# Python 
+# Python Assignments
 
 Journey of Learning Python
